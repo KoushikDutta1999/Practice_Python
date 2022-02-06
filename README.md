@@ -1,6 +1,6 @@
 # Practice Python
 
-- Hello World
+- Hello World in Python
 - A program to show ASCII Value
 - A program to write the given array
 - A program to show calender of a particular month
