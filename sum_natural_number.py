@@ -1,7 +1,9 @@
+# Sum of natural numbers up to num
+
 num = int(input("Enter a number : "))
 
 if num <= 0:
-    print("Enter a positive number")
+    print("Enter a number greater than 0")
 else:
     sum = 0
     # use while loop to iterate untill zero
