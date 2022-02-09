@@ -1,3 +1,5 @@
+# Program to transpose a matrix using a nested loop
+
 rows = int(input("Enter the Number of rows : " ))
 column = int(input("Enter the Number of Columns: "))
 

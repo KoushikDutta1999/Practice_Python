@@ -1,16 +1,39 @@
 # Practice Python
 
 - Hello World in Python
-- A program to show ASCII Value
-- A program to write the given array
-- A program to show calender of a particular month
-- A program to show factorial of a number
-- A program to use for loop
-- A program to show the year is leap year or not
-- A program to show if the number is palindrome or not
-- A program to show prime number
-- A program to show recursive fibonacci
-- A program to show a number in reverse
-- A program to show a string in reverse
-- A program to show sum of a number
-- A program to show sum of N natural numbers
+- A Python Program to Add Two Numbers
+- A Python Program to find the area of triangle
+- A Python Program to check Armstrong numbers in a certain interval
+- A Python Program to check if the number is an Armstrong number or not
+- A Python Program to write array elements
+- A Python Program to show ASCII Value
+- A Python Program to make a simple calculator
+- A Python Program to show a month of a particular year
+- A Python Program to convert temperature in celsius to fahrenheit
+- A Python Program to convert decimal into other number systems
+- A Python Program to find the factors of a number
+- A Python Program to show factorial of a number
+- A Python Program to convert temperature in fahrenheit to celsius
+- A Python Program to display the Fibonacci sequence up to n-th term
+- A Python Program to use for loop
+- A Python Program to find H.C.F of two numbers
+- A Python Program to Convert Kilometers to Miles
+- A Python Program to show the largest number among three
+- A Python Program to find the L.C.M. of two input number
+- A Python Program to show the year is leap year or not
+- A Python Program for matrix input from user
+- A Python Program to add two matrices using nested loop
+- A Python Program to transpose a matrix using a nested loop
+- A Python Program to show Multiplication table
+- A Python Program to check if the input number is odd or even
+- A Python Program to show if the number is palindrome or not
+- A Python Program to show prime number
+- A Python Program to display all the prime numbers within an interval
+- A Python Program to show a number in reverse
+- A Python Program to show a string in reverse
+- A Python Program to Find square root of real or complex numbers
+- A Python Program to calculate the square root
+- A Python Program to show sum of N natural numbers
+- A Python Program to show sum of a number
+- A Python Program to swap two variables
+- A Python Program to swap two variables Without Using Temporary Variable

@@ -1,4 +1,4 @@
-# A basic code for matrix input from user
+# A Python Program for matrix input from user
 
 row = int(input("Enter the number of rows: "))
 column = int(input("Enter the number of columns: "))

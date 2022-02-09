@@ -1,3 +1,5 @@
+# Python Program to write array elements
+
 arr = [1,2,3,4,5];
 
 print("Elements of given array : ");

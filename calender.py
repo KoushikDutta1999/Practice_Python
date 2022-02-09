@@ -1,3 +1,5 @@
+# Python Program to show a month of a particular year
+
 import calendar
 
 yy = int(input("Enter the Year: "))

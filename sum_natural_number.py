@@ -1,4 +1,4 @@
-# Sum of natural numbers up to num
+# Python Program to show sum of N natural numbers
 
 num = int(input("Enter a number : "))
 

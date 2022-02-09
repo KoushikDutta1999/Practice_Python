@@ -1,4 +1,4 @@
-# Program to add two matrices using nested loop
+# Python Program to add two matrices using nested loop
 
 rows = int(input("Enter the Number of rows : " ))
 column = int(input("Enter the Number of Columns: "))
