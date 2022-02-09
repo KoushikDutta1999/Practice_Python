@@ -22,8 +22,9 @@
 - A Python Program to find the L.C.M. of two input number
 - A Python Program to show the year is leap year or not
 - A Python Program for matrix input from user
-- A Python Program to add two matrices using nested loop
-- A Python Program to transpose a matrix using a nested loop
+- A Python Program to multiply two matrices using list comprehension
+- A Python Program to add two matrices using list comprehension
+- A Python Program to transpose a matrix using list comprehension
 - A Python Program to show Multiplication table
 - A Python Program to check if the input number is odd or even
 - A Python Program to show if the number is palindrome or not
