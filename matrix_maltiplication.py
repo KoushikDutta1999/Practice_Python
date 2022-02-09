@@ -1,4 +1,4 @@
-# Python Program to add two matrices using list comprehension
+# A Python Program to multiply two matrices using list comprehension
 
 rows = int(input("Enter the Number of rows : " ))
 column = int(input("Enter the Number of Columns: "))
@@ -9,18 +9,17 @@ print("First Matrix is: ")
 for n in matrix_a:
     print(n)
 
+print("-----------------------------------------")
+rows = int(input("Enter the Number of rows : " ))
+column = int(input("Enter the Number of Columns: "))
+
 print("Enter the elements of Second Matrix:")
 matrix_b= [[int(input()) for i in range(column)] for i in range(rows)]
 print("Second Matrix is: ")
 for n in matrix_b:
     print(n)
-    
-result=[[0 for i in range(column)] for i in range(rows)]
 
-for i in range(rows):
-    for j in range(column):
-        result[i][j] = matrix_a[i][j]+matrix_b[i][j]
-print("----------------------------------------------")
-print("The Sum of Above two Matrices is : ")
+result = [[sum(a*b for a,b in zip(X_row,Y_col)) for Y_col in zip(*matrix_b)] for X_row in matrix_a]
+print("-----------------------------------------")
 for r in result:
     print(r)

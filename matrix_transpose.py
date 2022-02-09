@@ -1,4 +1,4 @@
-# Program to transpose a matrix using a nested loop
+# Python Program to transpose a matrix using list comprehension
 
 rows = int(input("Enter the Number of rows : " ))
 column = int(input("Enter the Number of Columns: "))
