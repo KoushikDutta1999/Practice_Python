@@ -1,12 +1,10 @@
-# Python Program to write array elements
-
 arr = []
 
 n = int(input("Enter number of element: "))
 
 for i in range(0, n):
-    ele = int(input())
-    
+    ele = input()
     arr.append(ele)
 
-print(arr)
+print("First Element: ",arr[0])
+print("Last Element: ",arr[-1])
