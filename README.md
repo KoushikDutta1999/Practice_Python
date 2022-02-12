@@ -32,7 +32,7 @@
 - A Python Program to check if the input number is odd or even
 - A Python Program to check if the number is palindrome or not
 - A Python Program to check if a string is palindrome or not
-- A Python pattern to print Floyd's Triangle
+- A Python Program to print Floyd's Triangle
 - A Python Program to print full pyramid using * / numbers
 - A Python Program to print half pyramid using * / numbers / alphabets
 - A Python Program to print inverted full pyramid using *
