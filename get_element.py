@@ -1,3 +1,5 @@
+# Python Program to get an element from array
+
 arr = []
 
 n = int(input("Enter number of element: "))

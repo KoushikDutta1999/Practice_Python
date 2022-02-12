@@ -1,4 +1,4 @@
-# Python Program to perform different set operations like in mathematics
+# Python Program to perform union between two arrays
 
 arr1 = []
 num = int(input("Enter number of arr1: "))

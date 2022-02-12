@@ -1,4 +1,4 @@
-# Python Program to print full pyramid using *
+# Python Program to print inverted full pyramid using *
 
 rows = int(input("Enter numbers of rows: "))
 

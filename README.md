@@ -16,25 +16,38 @@
 - A Python Program to convert temperature in fahrenheit to celsius
 - A Python Program to display the Fibonacci sequence up to n-th term
 - A Python Program to use for loop
+- A Python Program to get an element from array
 - A Python Program to find H.C.F of two numbers
 - A Python Program to Convert Kilometers to Miles
 - A Python Program to show the largest number among three
 - A Python Program to find the L.C.M. of two input number
 - A Python Program to show the year is leap year or not
+- A Python Program to perform different set operations like in mathematics
 - A Python Program for matrix input from user
 - A Python Program to multiply two matrices using list comprehension
 - A Python Program to add two matrices using list comprehension
 - A Python Program to transpose a matrix using list comprehension
 - A Python Program to show Multiplication table
+- A Python Program to Print Output Without a Newline
 - A Python Program to check if the input number is odd or even
-- A Python Program to show if the number is palindrome or not
+- A Python Program to check if the number is palindrome or not
+- A Python Program to check if a string is palindrome or not
+- A Python pattern to print Floyd's Triangle
+- A Python Program to print full pyramid using * / numbers
+- A Python Program to print half pyramid using * / numbers / alphabets
+- A Python Program to print inverted full pyramid using *
+- A Python Program to print inverted half pyramid using * / numbers
 - A Python Program to show prime number
 - A Python Program to display all the prime numbers within an interval
+- A Python Program to Randomly Select an Element From the List
 - A Python Program to show a number in reverse
 - A Python Program to show a string in reverse
 - A Python Program to Find square root of real or complex numbers
 - A Python Program to calculate the square root
+- A Python Program to sort alphabetically the words form a string provided by the user
+- A Python Program to print part of string
 - A Python Program to show sum of N natural numbers
 - A Python Program to show sum of a number
 - A Python Program to swap two variables
 - A Python Program to swap two variables Without Using Temporary Variable
+- A Python Program to perform union between two arrays

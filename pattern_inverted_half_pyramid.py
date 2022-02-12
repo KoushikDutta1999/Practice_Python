@@ -1,4 +1,4 @@
-# Python Program to create inverted half pyramid using *
+# Python Program to print inverted half pyramid using *
 
 rows = int(input("Enter number of rows: "))
 
